@@ -35,6 +35,7 @@ const checkForWin = () => {
     // is p1 r && l  === 0
 
     // or is p2 r && l === 0
+    alert('checkForWin');
 } 
 
 document.addEventListener('DOMContentLoaded', () => {
